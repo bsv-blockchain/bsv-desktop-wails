@@ -1,0 +1,5 @@
+bsv-desktop-wails
+Copyright 2026 BSV Association
+
+This product includes software from these projects, under their own licenses:
+- Wails runtime (frontend/wailsjs/runtime): Copyright (c) 2018-Present Lea Anthony (MIT)
